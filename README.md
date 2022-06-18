@@ -1,5 +1,5 @@
 ## Description
-This is the source code of GEBEp proposed in the SIGMPD paper titled "Scalable and Effective Bipartite Network Embedding".
+This is the source code of GEBEp proposed in the SIGMPD paper titled ["Scalable and Effective Bipartite Network Embedding"](https://dl.acm.org/doi/abs/10.1145/3514221.3517838).
 
 ## Code & Datasets
 - Download the code from [here](https://github.com/AnryYang/GEBEp/releases/tag/v0.5)
